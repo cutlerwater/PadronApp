@@ -1,10 +1,23 @@
-import styled from 'styled-components'
-
-const Title = styled.h1`
-  font-size: 50px;
-  color: ${({ theme }) => theme.colors.primary};
-`
+import { Header, Feature, Sponsor, Specs, Case, Discount, Products, Footer } from "../components";
+import { HeadTag, Main, ScrollupLink } from "../global";
+import siteData from "../data/siteData.json";
 
 export default function Home() {
-  return <Title>My page</Title>
-}
+  return (
+    <div>
+      <HeadTag title="Padron Cigars" />
+
+      <Header data={siteData.headerData} />
+      <Main>
+        <Feature data={siteData.featureData} />
+        <Sponsor />
+        <Specs data={siteData.specsData} />
+        <Case data={siteData.caseData} />
+        <Discount />
+        <Products data={siteData.productsData} />
+        <Footer data={siteData.footerData} />
+      </Main>
+      <ScrollupLink />
+    </div>
+  );
+};

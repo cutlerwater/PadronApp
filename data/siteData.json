@@ -1,0 +1,150 @@
+{
+    "headerData": [
+      {
+        "id": 1,
+        "href": "#home",
+        "title": "Home",
+        "section": "home"
+      },
+      {
+        "id": 2,
+        "href": "#specs",
+        "title": "Specs",
+        "section": "specs"
+      },
+      {
+        "id": 3,
+        "href": "#case",
+        "title": "Case",
+        "section": "case"
+      },
+      {
+        "id": 4,
+        "href": "#products",
+        "title": "Products",
+        "section": "products"
+      }
+    ],
+    "featureData": {
+      "text": "Enjoy award-winning Padron Cigars with all different kinds of shapes and sizes, while delivering a smooth and consistent smoke, no matter which one you decide on."
+    },
+    "specsData": [
+      {
+        "id": 1,
+        "icon": "",
+        "title": "Country of Origin",
+        "subTitle": "Nicaragua"
+      },
+      {
+        "id": 2,
+        "icon": "",
+        "title": "Availability",
+        "subTitle": "Excellent"
+      },
+      {
+        "id": 3,
+        "icon": "",
+        "title": "Lines",
+        "subTitle": "1000 series, 1964, 1926 and Special Editions"
+      },
+      {
+        "id": 4,
+        "icon": "",
+        "title": "Taste",
+        "subTitle": "Creamy, Smooth and Consistent"        
+      }
+    ],
+    "caseData": {
+      "text": "With a comfortable and adaptable case so that you can store your cigars wherever you want, and keep them ready to smoke."
+    },
+    "productsData": [
+      {
+        "id": 1,
+        "img": "/img/80anniv.jpg",
+        "title": "80th Anniversary",
+        "price": 33
+      },
+      {
+        "id": 2,
+        "img": "/img/5000natural.jpg",
+        "title": "5000 natural",
+        "price": 10
+      },
+      {
+        "id": 3,
+        "img": "/img/Diplomatico.jpg",
+        "title": "Diplomatico",
+        "price": 269
+      },
+      {
+        "id": 4,
+        "img": "/img/3000natural.jpg",
+        "title": "3000 Natural",
+        "price": 8
+      },
+      {
+        "id": 5,
+        "img": "/img/1926No2.jpg",
+        "title": "1926 Series",
+        "price": 19
+      },
+      {
+        "id": 6,
+        "img": "/img/1964AMaduro.jpg",
+        "title": "1964 A Maduro",
+        "price": 22
+      }
+    ],
+    "footerData": {
+      "productsLinks": [
+        {
+          "id": 1,
+          "title": "1000 Series"
+        },
+        {
+          "id": 2,
+          "title": "1964 Series"
+        },
+        {
+          "id": 3,
+          "title": "1926 Series"
+        },
+        {
+          "id": 4,
+          "title": "Accesories"
+        }
+      ],
+      "supportLinks": [
+        {
+          "id": 1,
+          "title": "Padron Help"
+        },
+        {
+          "id": 2,
+          "title": "Stores"
+        },
+        {
+          "id": 3,
+          "title": "Sponsors"
+        },
+        {
+          "id": 4,
+          "title": "reviews"
+        }
+      ],
+      "socialLinks": [
+        {
+          "id": 1,
+          "icon": "ri-facebook-fill"
+        },
+        {
+          "id": 2,
+          "icon": "ri-instagram-fill"
+        },
+        {
+          "id": 3,
+          "icon": "ri-twitter-fill"
+        }
+      ]
+    }
+  }
